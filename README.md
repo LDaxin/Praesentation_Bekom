@@ -15,4 +15,4 @@ Projekt Planzenüberwachung:
 - https://www.az-delivery.de/en/blogs/azdelivery-blog-fur-arduino-und-raspberry-pi/ein-pflanzenwaechter-fuer-die-fensterbank
 
 Natürlich auch Wikipedia:
-https://de.wikipedia.org/wiki/ESP8266
+- https://de.wikipedia.org/wiki/ESP8266
